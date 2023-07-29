@@ -24,6 +24,6 @@ Ao decorrer do tempo, irei partilhar os projetos que tenho executado durante os 
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
 ## Meio de contacto:📱
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=disc"
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=disc")]
 
 
