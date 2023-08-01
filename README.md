@@ -11,9 +11,6 @@
 A area que pretendo estudar no futuro é programação. Mas tenho como passatempo, estudar sobre cibersegurança e sobre o Kali Linux.
 
 Ao decorrer do tempo, irei partilhar os projetos que tenho executado durante os anos.
-
-![NotFoundd404's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotFoundd404&show_icons=true&theme=dark)
-
 ***
 ## Linguagens de Programação que já utilizei:🌐
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
